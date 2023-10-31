@@ -1,6 +1,6 @@
 {
-  "name": "atomheart",
-  "version": "1.0.0",
+  "name": "at0m.me",
+  "version": "1.0.1",
   "description": "Electron Container.",
   "main": "index.js",
   "scripts": {
